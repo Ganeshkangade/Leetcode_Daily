@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0137-single-number-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,4 +15,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
