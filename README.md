@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0152-maximum-product-subarray) |
 | [0260-single-number-iii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
