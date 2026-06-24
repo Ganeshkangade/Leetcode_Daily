@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0260-single-number-iii) |
@@ -18,6 +19,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0015-3sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
