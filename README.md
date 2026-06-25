@@ -14,6 +14,7 @@
 | [0152-maximum-product-subarray](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0260-single-number-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0015-3sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0344-reverse-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
