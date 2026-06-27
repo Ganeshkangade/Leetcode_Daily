@@ -37,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
