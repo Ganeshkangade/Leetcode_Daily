@@ -27,6 +27,7 @@
 | [0141-linked-list-cycle](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0015-3sum](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
