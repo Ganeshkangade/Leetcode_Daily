@@ -21,6 +21,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0229-majority-element-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +101,5 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0229-majority-element-ii) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
