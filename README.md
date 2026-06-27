@@ -20,6 +20,7 @@
 | [0414-third-maximum-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
@@ -55,6 +56,7 @@
 | [0141-linked-list-cycle](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
