@@ -58,4 +58,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
