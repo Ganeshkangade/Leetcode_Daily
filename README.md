@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0414-third-maximum-number) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -55,6 +58,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,4 +85,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
