@@ -19,6 +19,7 @@
 | [0260-single-number-iii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -65,6 +66,7 @@
 | [0229-majority-element-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +87,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
