@@ -26,6 +26,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0169-majority-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0229-majority-element-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -128,4 +130,5 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
