@@ -22,6 +22,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -126,4 +127,5 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
