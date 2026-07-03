@@ -27,6 +27,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3046-split-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3046-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3046-split-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3046-split-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0229-majority-element-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0229-majority-element-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3046-split-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3046-split-the-array) |
 ## Recursion
 |  |
 | ------- |
