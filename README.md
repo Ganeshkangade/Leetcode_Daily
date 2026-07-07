@@ -106,6 +106,7 @@
 | [0009-palindrome-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
 | ------- |
