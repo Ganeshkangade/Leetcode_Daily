@@ -35,6 +35,7 @@
 | [0001-two-sum](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
@@ -93,6 +94,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
