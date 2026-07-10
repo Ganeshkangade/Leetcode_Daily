@@ -18,6 +18,7 @@
 | [0229-majority-element-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -65,6 +66,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0876-middle-of-the-linked-list) |
