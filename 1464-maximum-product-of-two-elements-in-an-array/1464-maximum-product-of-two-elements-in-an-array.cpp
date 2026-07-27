@@ -1,11 +1,10 @@
 class Solution {
 public:
-    int maxProduct(vector<int>& nums) 
+    int maxProduct(vector<int>& nums)
     {
-
+        int n = nums.size();
         int first = INT_MIN;
         int second = INT_MIN;
-        int n = nums.size();
 
         for(int i = 0; i<n; i++)
         {
@@ -19,7 +18,9 @@ public:
                 second = nums[i];
             }
         }
+        
+        int result = (first-1)*(second-1);
 
-        return (first-1)*(second-1);
+        return result;
     }
 };
