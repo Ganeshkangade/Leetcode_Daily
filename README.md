@@ -31,6 +31,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -50,6 +51,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0645-set-mismatch) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3046-split-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3046-split-the-array) |
 ## Dynamic Programming
@@ -80,6 +82,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -156,6 +160,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
