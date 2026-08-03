@@ -28,6 +28,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -92,6 +93,7 @@
 | [0506-relative-ranks](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
