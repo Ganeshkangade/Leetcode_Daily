@@ -26,6 +26,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -46,6 +47,7 @@
 | [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0645-set-mismatch) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3046-split-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3046-split-the-array) |
 ## Dynamic Programming
@@ -61,6 +63,7 @@
 | [0137-single-number-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
