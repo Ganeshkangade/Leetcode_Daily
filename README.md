@@ -30,6 +30,7 @@
 | [0704-binary-search](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -95,6 +96,7 @@
 | [0645-set-mismatch](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
