@@ -36,6 +36,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3046-split-the-array) |
+| [3731-find-missing-elements](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3046-split-the-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3046-split-the-array) |
+| [3731-find-missing-elements](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [1051-height-checker](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Ganeshkangade/Leetcode_Daily/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
